@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer Nitro 5\\Desktop\\LAB2_2\\Lab2_1\\Lab2_2.csproj": {}
+    "D:\\Labtest\\LAB2_2\\Lab2_1\\Lab2_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer Nitro 5\\Desktop\\LAB2_2\\Lab2_1\\Lab2_2.csproj": {
+    "D:\\Labtest\\LAB2_2\\Lab2_1\\Lab2_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer Nitro 5\\Desktop\\LAB2_2\\Lab2_1\\Lab2_2.csproj",
+        "projectUniqueName": "D:\\Labtest\\LAB2_2\\Lab2_1\\Lab2_2.csproj",
         "projectName": "Lab2_2",
-        "projectPath": "C:\\Users\\Acer Nitro 5\\Desktop\\LAB2_2\\Lab2_1\\Lab2_2.csproj",
+        "projectPath": "D:\\Labtest\\LAB2_2\\Lab2_1\\Lab2_2.csproj",
         "packagesPath": "C:\\Users\\Acer Nitro 5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer Nitro 5\\Desktop\\LAB2_2\\Lab2_1\\obj\\",
+        "outputPath": "D:\\Labtest\\LAB2_2\\Lab2_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VS\\3\\NuGetPackages"

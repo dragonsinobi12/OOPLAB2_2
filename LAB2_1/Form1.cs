@@ -10,7 +10,7 @@ namespace Lab2_1
 
     public partial class Form1 : Form
     {
-        double minScore = 0;
+        
         int sumA = 0;
         int sumBPlus = 0;
         int sumB = 0;
@@ -132,7 +132,6 @@ namespace Lab2_1
                         listStudent.Add(student);
                         if (listStudent.Count == 1)
                         {
-                            minScore = double.Parse(inputScore);
                             stIDMinBox.Text = student.studentid;
                             stNameMinBox.Text = student.name;
                             stPointMinBox.Text = student.score.ToString();
@@ -233,6 +232,7 @@ namespace Lab2_1
         void findMaxMinScore()
         { 
             double maxScore = 0;
+            double minScore = 100;
 
             //for (int i = 0; i < listStudent.Count; i++)
             {
