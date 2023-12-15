@@ -130,12 +130,6 @@ namespace Lab2_1
                         student.studentid = inputID;
                         student.score = double.Parse(inputScore);
                         listStudent.Add(student);
-                        if (listStudent.Count == 1)
-                        {
-                            stIDMinBox.Text = student.studentid;
-                            stNameMinBox.Text = student.name;
-                            stPointMinBox.Text = student.score.ToString();
-                        }
                         resetextbox();
                         findMaxMinScore();
                         sumofscore();

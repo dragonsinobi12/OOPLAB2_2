@@ -15,3 +15,21 @@ C:\Users\Acer Nitro 5\Desktop\LAB2_2\Lab2_1\obj\Debug\net8.0-windows\refint\Lab2
 C:\Users\Acer Nitro 5\Desktop\LAB2_2\Lab2_1\obj\Debug\net8.0-windows\Lab2_2.pdb
 C:\Users\Acer Nitro 5\Desktop\LAB2_2\Lab2_1\obj\Debug\net8.0-windows\Lab2_2.genruntimeconfig.cache
 C:\Users\Acer Nitro 5\Desktop\LAB2_2\Lab2_1\obj\Debug\net8.0-windows\ref\Lab2_2.dll
+D:\Labtest\LAB2_2\Lab2_1\bin\Debug\net8.0-windows\Lab2_2.exe
+D:\Labtest\LAB2_2\Lab2_1\bin\Debug\net8.0-windows\Lab2_2.deps.json
+D:\Labtest\LAB2_2\Lab2_1\bin\Debug\net8.0-windows\Lab2_2.runtimeconfig.json
+D:\Labtest\LAB2_2\Lab2_1\bin\Debug\net8.0-windows\Lab2_2.dll
+D:\Labtest\LAB2_2\Lab2_1\bin\Debug\net8.0-windows\Lab2_2.pdb
+D:\Labtest\LAB2_2\Lab2_1\obj\Debug\net8.0-windows\Lab2_1.Form1.resources
+D:\Labtest\LAB2_2\Lab2_1\obj\Debug\net8.0-windows\Lab2_2.Properties.Resources.resources
+D:\Labtest\LAB2_2\Lab2_1\obj\Debug\net8.0-windows\Lab2_2.csproj.GenerateResource.cache
+D:\Labtest\LAB2_2\Lab2_1\obj\Debug\net8.0-windows\Lab2_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labtest\LAB2_2\Lab2_1\obj\Debug\net8.0-windows\Lab2_2.AssemblyInfoInputs.cache
+D:\Labtest\LAB2_2\Lab2_1\obj\Debug\net8.0-windows\Lab2_2.AssemblyInfo.cs
+D:\Labtest\LAB2_2\Lab2_1\obj\Debug\net8.0-windows\Lab2_2.csproj.CoreCompileInputs.cache
+D:\Labtest\LAB2_2\Lab2_1\obj\Debug\net8.0-windows\Lab2_2.sourcelink.json
+D:\Labtest\LAB2_2\Lab2_1\obj\Debug\net8.0-windows\Lab2_2.dll
+D:\Labtest\LAB2_2\Lab2_1\obj\Debug\net8.0-windows\refint\Lab2_2.dll
+D:\Labtest\LAB2_2\Lab2_1\obj\Debug\net8.0-windows\Lab2_2.pdb
+D:\Labtest\LAB2_2\Lab2_1\obj\Debug\net8.0-windows\Lab2_2.genruntimeconfig.cache
+D:\Labtest\LAB2_2\Lab2_1\obj\Debug\net8.0-windows\ref\Lab2_2.dll
